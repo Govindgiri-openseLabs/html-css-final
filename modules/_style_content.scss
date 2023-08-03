@@ -1,0 +1,27 @@
+.layout__content{
+    position: relative;
+    width: 50%;
+    height: 50%;
+    list-style-type: none;
+    color: rgb(212, 208, 208);
+    margin: 10%;
+    p{ font-size: 40px;
+       color: white;
+    }
+    .layout__content__nav-bar{
+        float:right;
+        position:relative;
+        bottom: 60%;
+        -ms-wrap-margin: 2%;
+        ul{
+        list-style-type: none;
+        }
+        img{
+            margin: 15%;
+            position: relative;
+            left: 32pc;
+            width: 30px;
+            height: 30px;
+        }
+    }
+}

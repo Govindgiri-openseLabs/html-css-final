@@ -1,0 +1,29 @@
+.layout__footer{
+    position: relative;
+    width: 100%;
+    height: 20%;
+    bottom:20pc;
+    left: 8pc;
+    list-style-type: none;
+    display: flex;
+    button{
+       border-radius: 0;
+       background-color: black;
+       color: white;
+       margin:10px;
+       width: 150%;
+       height: 30px;
+       border: 1px rgb(163, 161, 161) solid;
+    }
+    .layout__footer__btn-02{
+       position: relative;
+       left: 4pc;
+    }
+    .layout__footer__anchor{
+
+       position: relative;
+       left:65pc;
+       color: white;
+       text-decoration: none;
+    }
+  } 
